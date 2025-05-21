@@ -27,7 +27,6 @@ Você está sendo avaliado(a) em sua habilidade de tomar decisões automatizadas
 
 ### 📦 Instruções Gerais
 
-- Crie um arquivo `.py` separado para cada questão.
 - Mantenha seu código indentado corretamente e com prints claros.
 - Personalize a saída sempre que possível usando o nome do usuário.
 
